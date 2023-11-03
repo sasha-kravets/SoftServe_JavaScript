@@ -1,0 +1,28 @@
+.bg-green {
+  background-color: rgb(144 238 144);;
+}
+
+.fw-bold {
+  font-weight: 600;
+}
+
+.red-text {
+  color: red;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.fs-italic {
+  font-style: italic;
+}
+
+.inline-list {
+  display: flex;
+  list-style: none;
+}
+
+.hidden {
+  opacity: 0;
+}
